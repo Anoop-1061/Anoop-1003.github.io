@@ -529,6 +529,7 @@ header .navbar ul li a:hover {
     margin: 1rem;
     padding: 2rem 0.2rem 2rem 0.2rem;
     gap: 1rem;
+     width: 210px;
   }
   .skills .container {
     margin-top: 5px;
